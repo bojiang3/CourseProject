@@ -39,15 +39,15 @@ Main.py will be the user side code for this project
 
 ## Discussion
 
-We have not complete what we planned, we start educationweb and completely failed to installed. We switched to this sentimental analysis project for the paper instead. We have complete the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We do not have the time to imporve the frontend which we planned to do initially. We may work on it later after the semester to make it a better one. 
+Since during our original planned project implementation - EducationalWeb, we met too many unforeseen obstacles, we decided to switch something new - this sentimental analysis project. We have completed the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We may keep working on the frontend later to to improve the user experience.
 
 
 ## Video presentation
 
 https://mediaspace.illinois.edu/media/1_h6ncumvp
 
-## Sources
 
+## References/Sources
 
 - ![azure grammer](https://docs.microsoft.com/en-us/office/troubleshoot/word/spelling-grammar-checker-underline-color)
 - https://docs.microsoft.com/en-us/office/troubleshoot/word/spelling-grammar-checker-underline-color
