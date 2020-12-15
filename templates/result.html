@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Checking Result</title>
+  </head>
+  <body>
+    {% extends "templates.html" %}
+    {% block content %}
+    <h1> Here is the Result for You</h1>
+
+        {% for item in info %}
+       <textarea cols="50" rows="10"> 
+         {{
+           item
+          }}</textarea>
+        {% endfor %}
+   
+
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Check Input</title>
+  </head>
+  <body>
+  #upload doc file
+    <form action = "http://localhost:5000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit"/>
+    </form>
+
+    {% extends "templates.html" %}
+    {% block content %}
+    <h1> Checking Begins Here</h1>
+    <form action="{{url_for('result')}}" method = "POST" >
+      <textarea name="message" cols="50" rows="10" placeholder="Type or paste your essay here...">
+       
+        </textarea>
+      <br />
+      <input type="submit" />
+      </form>
+    {% endblock %}
+  </body>
+</html>
+  
