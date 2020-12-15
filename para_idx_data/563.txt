@@ -1,1 +1,0 @@
-The distance, dist (c, c ), between c and c is added to the objective function as the penalty. 

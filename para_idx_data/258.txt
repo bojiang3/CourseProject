@@ -1,1 +1,0 @@
-All clustering methods attempt to maximize the following measures. Coherence. How similar are objects in the same cluster? 

@@ -1,1 +1,0 @@
-Use META's language model to learn a distribution of words over a document you wish to summarize. 

@@ -1,1 +1,0 @@
-Use an example to show why the k-means algorithm may not find the global optimum, that is, optimizing the within-cluster variation. 

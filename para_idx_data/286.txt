@@ -1,1 +1,0 @@
-Give one similarity and one difference between k-NN and Naive Bayes. 
