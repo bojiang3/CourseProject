@@ -7,7 +7,7 @@ Yunfei Ma, Zhanyuan Ye, Bojiang Li
 
 This project is a app to help student improve student reading and writing ability by sentimental and keywork analysis
 
-The source is provided in **web**
+The source code is provided in the main folder.
 
 
 ## Software installation
