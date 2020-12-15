@@ -39,7 +39,7 @@ Main.py will be the user side code for this project
 
 ## Discussion
 
-Since during our original planned project implementation - EducationalWeb, we met too many unforeseen obstacles, we decided to switch something new - this sentimental analysis project. We have completed the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We may keep working on the frontend later to to improve the user experience.
+Since during our original planned project implementation - EducationalWeb, we encountered too many unforeseen obstacles, we decided to switch something new - this sentimental analysis project. We have completed the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We may keep working on the frontend later to to improve the user experience.
 
 
 ## Video presentation
