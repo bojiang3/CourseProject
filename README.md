@@ -1,8 +1,10 @@
-# Course Final Project for CS 410 Text Information Systems (Prof. Chengxiang Zhai)
+# Course Final Project for CS 410 Text Information Systems
+
+## Sentiment Analysis Tool (Option 5: Free topic)
+
 ### Group SN (#196)
 Bojiang Li, Yunfei Ma, David Ye
 
-## Sentiment Analysis Tool (Option 5: Free topic)
 
 This project aims to help students improve paper-reading and -writing ability by providing sentimental and keyword analysis.
 
