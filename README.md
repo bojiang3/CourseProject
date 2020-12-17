@@ -1,45 +1,51 @@
 # Course Final Project for CS 410 Text Information Systems (Prof. Chengxiang Zhai)
-### Team SN (196)
+### Group SN (#196)
+Bojiang Li, Yunfei Ma, David Ye
 
-Yunfei Ma, Zhanyuan Ye, Bojiang Li
+## Sentiment Analysis Tool (Option 5: Free topic)
 
-# Course project
+This project aims to help students improve paper-reading and -writing ability by providing sentimental and keyword analysis.
 
-This project is a app to help student improve student reading and writing ability by sentimental and keywork analysis
+- The source code is provided in the main folder.
 
-The source code is provided in the main folder.
+### For the specific information, sample text input and output results, please see "*CS 410 Final Project Report*" in the main menu.
 
 
 ## Software installation
 
-
 First install the azure coginitive services package service.
+```
+pip3 install azure3
+pip3 install cognitiveservices
+pip3 install msrest
+pip3 install docx2txt
+```
 
-
-Then direct run 
+Then direct run the file with Python.
+- Python3 works
 
 ```
-python textanalysis.py
+python text_analytics_bing_search_key_phase.py 
 ```
 
-The result will be rendered in textanalyticresult.docx
+The result will be rendered in *textanalyticresult.docx*
 
 
+## Discussion & Midway Topic Change
 
-##  Result of the project
+Since during our original planned project implementation - EducationalWeb, we encountered too many unforeseen obstacles, we decided to switch something new - this sentimental analysis project. We have completed the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We may keep working on the frontend later to to improve the user experience.
 
-In the rendered, according to every sentence, it will give a score to the phrase. Sentimental analysis will be given to each one of sentences. The high scores on both positive and negetive will be noticed because it does not follow the require neutral tone of the essay.
+##  Result and Outcome
+
+- In the rendered, according to every sentence, it will give a score to the phrase.
+- Sentimental analysis will be given to each one of sentences.
+- The high scores on both positive and negetive will be noticed because it does not follow the require neutral tone of the essay.
 
 050B.docx is the sample file we test for the sentimental analysis.
 
 For grammercheck.py, it is the code for checking the right wording for the whole paper.
 
 Main.py will be the user side code for this project
-
-
-## Discussion
-
-Since during our original planned project implementation - EducationalWeb, we encountered too many unforeseen obstacles, we decided to switch something new - this sentimental analysis project. We have completed the project for giving feedbacks on the sentiment and giving scores for the sentimentals. We may keep working on the frontend later to to improve the user experience.
 
 
 ## Video presentation
