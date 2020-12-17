@@ -1,5 +1,8 @@
 ## CS 410 Final Project 
 
+- For the specific information, sample text input and output results, please see "*CS 410 Final Project Report*" in the main menu.
+
+
 # Sentiment Analysis Tool (Option 5: Free topic)
 
 ### Group SN (#196)
@@ -7,7 +10,6 @@ Bojiang Li, Yunfei Ma, David Ye
 
 
 
-- For the specific information, sample text input and output results, please see "*CS 410 Final Project Report*" in the main menu.
 
 
 
